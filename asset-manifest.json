@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meztake-shop/static/css/main.dbaa9f93.css",
+    "main.js": "/meztake-shop/static/js/main.fb4030ad.js",
+    "index.html": "/meztake-shop/index.html",
+    "main.dbaa9f93.css.map": "/meztake-shop/static/css/main.dbaa9f93.css.map",
+    "main.fb4030ad.js.map": "/meztake-shop/static/js/main.fb4030ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbaa9f93.css",
+    "static/js/main.fb4030ad.js"
+  ]
+}
